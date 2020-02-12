@@ -38,7 +38,7 @@ class MarkovMachine {
   /** return random text from chains */
 
   makeText(numWords = 100) {
-    let count = 0;
+    let count = 1;
     let currentWord = _.sample(this.words);
     let text = currentWord;
     let nextWord;
@@ -58,4 +58,7 @@ class MarkovMachine {
     return text;
   }
 }
-let mm = new MarkovMachine(text);
+
+module.exports = {
+  MarkovMachine: MarkovMachine
+}

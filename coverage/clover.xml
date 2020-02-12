@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1581467267105" clover="3.2.0">
+  <project timestamp="1581467267105" name="All files">
+    <metrics statements="23" coveredstatements="23" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4" elements="34" coveredelements="34" complexity="0" loc="23" ncloc="23" packages="1" files="1" classes="1"/>
+    <file name="markov.js" path="/Users/georegruner/Projects/Rithm/LabExercises/node-markov/markov.js">
+      <metrics statements="23" coveredstatements="23" conditionals="7" coveredconditionals="7" methods="4" coveredmethods="4"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="46" count="2" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="49" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
